@@ -9,7 +9,7 @@ chmod +x apply_cert.sh
 ./apply_cert.sh box.cnboxs.dpdns.org
 
 
-接口调用：https://dns.cngames.site/get_info.php?subdomain=box.cnboxs.dpdns.org
+接口调用：https://xxx.com/get_info.php?subdomain=box.cnboxs.dpdns.org
 
 
 注意（安装jq）
